@@ -1,5 +1,7 @@
 # flogin
 
+Mock login screeen, using SharedPrefs to keep loggedin state, start at either login or Home screen.
+
 A new Flutter application.
 
 ## Getting Started
